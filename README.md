@@ -1,5 +1,5 @@
 ## 🧑‍💻 Chaewook Lee
-Web front-end developer.
+Front-end developer.
 
 ### 🛠 Tech
 
